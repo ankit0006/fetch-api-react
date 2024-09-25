@@ -1,0 +1,20 @@
+.App{
+  border:2px solid black;
+  margin:2rem;
+  padding:2rem;
+  display:flex;
+  justify-content: space-between;
+}
+#tid{
+  border:1px solid black;
+}
+#id1{
+  border:1px solid black;
+  
+}
+#id2{
+  border:1px solid black;
+}
+#id3{
+  border:1px solid black;
+}
